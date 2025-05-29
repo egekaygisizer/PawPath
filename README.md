@@ -1,34 +1,40 @@
-# 🔢 MathRush
+# 🐾 PawPath
 
-**MathRush** is a simple yet fun brain training iOS app that challenges your speed and accuracy in basic math operations.  
-Great for quick mental workouts with increasing difficulty levels!
+**PawPath** is an AI-powered dog care companion app that helps you track walks, log activities, monitor moods, and receive intelligent veterinary insights based on your dog's behavior.
+
+Built with love for dog owners who want to care smarter, not harder.  
+Whether you're monitoring poop frequency or checking when the next vet visit is due — PawPath has you covered.
+
+---
 
 ## 📥 Download
 
-Available now on the App Store!
+Available on the App Store soon!
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/tr/app/mathrush-quick-solve/id6744973300?l=tr)
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com)
 
 ---
 
 ## 📱 Screenshots
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/c1c91a2b-8d72-4857-b70e-1df77e5e4cd0" width="200" />
-  <img src="https://github.com/user-attachments/assets/98e7c544-a2bd-45a3-9b68-c5b399e76fa0" width="200" />
-  <img src="https://github.com/user-attachments/assets/5735d7e6-eba8-4f90-bae2-5b524e258787" width="200" />
-  <img src="https://github.com/user-attachments/assets/f1889bd0-efa8-4e36-9847-5bc03e91bbb2" width="200" />
+  <img src="https://github.com/user-attachments/assets/0dd8f058-f101-4339-8068-3b0a2f781b7c" width="200" />
+  <img src="https://github.com/user-attachments/assets/cade0b2f-d98b-4dc3-a1b9-5cfbb1db57ec" width="200" />
+  <img src="https://github.com/user-attachments/assets/8c2e7531-5bb0-4887-b52d-b80d2e59b21c" width="200" />
+  <img src="https://github.com/user-attachments/assets/ee1d049d-1751-4027-8ae8-1be680f1dcc5" width="200" />
 </p>
 
 ---
 
 ## ✨ Features
 
-- ✅ Clean and simple SwiftUI-based UI  
-- 💡 3 difficulty levels: **Easy**, **Medium**, and **Hard**  
-- 🧠 Randomly generated math problems
-- ⏱️ Time-based scoring system
-- 🎯 Focused on speed and accuracy
+- 📍 Walk tracking with live route and metrics  
+- 💩 Poop & food logs  
+- 💉 Vaccination and vet visit reminders  
+- 💡 AI-powered symptom analysis and health advice  
+- 🔔 Live Activity support for walk sessions  
+- 📅 Calendar-based activity overview  
+- 🔒 Secure data sync with Firebase + SwiftData
 
 ---
 
@@ -36,17 +42,35 @@ Available now on the App Store!
 
 - `Swift`
 - `SwiftUI`
+- `MapKit`
+- `Core Location`
+- `OpenAI API (gpt-4o-mini)`
+- `Firebase (Auth, Firestore, Functions, Storage)`
+- `SwiftData`
+- `StoreKit`
+- `Live Activities`
 - `MVVM`
 
 ---
 
+## 🔐 Privacy & Terms
+
+- [Privacy Policy](https://github.com/egekaygisizer/PawPath#privacy-policy)
+- [Terms of Use](https://github.com/egekaygisizer/PawPath#terms-of-use)
+
+---
 
 ## 📌 About the Developer
 
-Hi, I’m Ege Kaygısızer – a Computer Science student and iOS Developer who enjoys creating small, focused apps to improve everyday life.  
-Feel free to connect with me!
+Hi, I’m **Ege Kaygısızer** – a Computer Science student and passionate iOS Developer building tools that make life more delightful and functional.  
+PawPath is a result of my love for software, animals, and great UX. As a dog owner i enjoyed a lot during building this app.
 
 - [GitHub](https://github.com/egekaygisizer)
-- [LinkedIn](https://www.linkedin.com/in/ege-kaygisizer)
+- [LinkedIn](https://www.linkedin.com/in/ege-kaygisizer/)
 
 ---
+
+## 📢 Feedback & Contributions
+
+Feel free to report bugs or suggest features via [Issues](https://github.com/egekaygisizer/PawPath/issues).  
+Contributions are welcome and appreciated 🐶
