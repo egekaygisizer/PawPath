@@ -9,9 +9,9 @@ Whether you're monitoring poop frequency or checking when the next vet visit is 
 
 ## 📥 Download
 
-Available on the App Store soon!
+Available on the App Store!
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com)
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/pawpath-ai-vet-dog-tracker/id6746102202)
 
 ---
 
